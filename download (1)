@@ -1,0 +1,13 @@
+# 718Digital - Variables d'environnement
+# COPIEZ ce fichier vers ".env" et renseignez vos vraies valeurs
+# Le fichier ".env" ne doit JAMAIS être envoyé sur GitHub ou partagé publiquement
+
+MISTRAL_API_KEY=votre_cle_mistral_ici
+ALLOWED_ORIGIN=https://718digital.ci
+MISTRAL_MODEL=mistral-large-latest
+
+# --- WhatsApp Business API (Meta) ---
+WHATSAPP_TOKEN=votre_token_d_acces_meta
+WHATSAPP_PHONE_NUMBER_ID=votre_phone_number_id
+WHATSAPP_VERIFY_TOKEN=718digital_verify_2026
+WHATSAPP_APP_SECRET=votre_app_secret_meta
